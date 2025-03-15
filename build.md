@@ -1,5 +1,6 @@
-Facebook: 503.0.0.69.76  
 IconPackStudio: 2.2 build 016  
+Facebook: 504.0.0.69.64  
+Instagram: 371.0.0.36.89  
 Messenger: 439.0.0.29.119  
 Music: 8.05.51  
 
