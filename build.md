@@ -1,8 +1,8 @@
-IconPackStudio: 2.2 build 016  
-Facebook: 504.0.0.69.64  
 Instagram: 371.0.0.36.89  
-Messenger: 439.0.0.29.119  
-Music: 8.05.51  
+Facebook: 504.0.0.69.64  
+Music: 8.10.51  
+Messenger: 498.0.0.64.109  
+YouTube: 20.09.41  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
