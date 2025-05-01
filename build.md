@@ -1,6 +1,6 @@
-Instagram: 377.1.0.48.63  
-Messenger: 504.1.0.72.107  
-Music: 8.16.51  
+Instagram: 378.0.0.52.68  
+Facebook: 510.0.0.72.41  
+Music: 8.17.52  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
@@ -8,5 +8,5 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.21.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.21.0)  
+Patches: ReVanced/patches-5.22.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.22.0)  
